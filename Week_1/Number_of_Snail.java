@@ -1,5 +1,5 @@
 package Week_1;
-
+// https://www.swexpertacademy.com/main/solvingProblem/solvingProblem.do?contestProbId=AV5PobmqAPoDFAUq&categoryId=AV5PobmqAPoDFAUq&categoryType=CODE&&&
 import java.util.Scanner;
 
 public class Number_of_Snail {

@@ -2,7 +2,8 @@ package Week_1;
 
 import java.util.Scanner;
 
-public class p_1024 {
+// https://papago.naver.com/?sk=ko&tk=en&st=%EC%88%98%EC%97%B4%EC%9D%98%20%ED%95%A9
+public class Sum_Of_Sequence {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int N = scan.nextInt();
