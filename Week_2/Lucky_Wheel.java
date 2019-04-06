@@ -17,7 +17,7 @@ public class Lucky_Wheel {
             for(int j = 0 ; j<N; j++) {
                 if(answer[j] == tmp && j != index) {
                     System.out.println("!");
-                    System.exit(0);
+                    return;
                 }
             }
             answer[index] = tmp;
